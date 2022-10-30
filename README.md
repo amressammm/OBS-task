@@ -1,7 +1,7 @@
 
 # Generator file
 
-To generate data just run the generaator file and the random data will be generated in the app.log file. 
+To generate data just run the generator file and the random data will be generated in the app.log file. 
 
 # Extractor file
 
